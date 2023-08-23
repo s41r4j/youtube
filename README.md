@@ -19,6 +19,6 @@ Welcome to the companion repository for our YouTube videos! Here you'll find add
 
 ## INDEX
 
-| THUMBNAIL | TITLE (yt url) | CODE (repo url) |
+| THUMBNAIL | TITLE (_yt url_) | CODE (_repo url_) |
 |---|---|---|
 |||
