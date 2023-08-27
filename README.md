@@ -4,21 +4,9 @@ Welcome to the companion repository for our YouTube videos! Here you'll find add
 
 <br>
 
-## Quick Search
-
-1. __Title code__:
-    - Check the video title & note the _title code_
-      - eg: `THIS WILL BE THE VIDEO TITLE | TITLE CODE WILL BE HERE`
-    - Copy this link [`github.com/s41r4j/youtube/`](https://github.com/s41r4j/youtube/) & add _title code_ at the end
-      - eg: `github.com/s41r4j/youtube/title_code`
-
-2. __Index__: Check the [index](#index) below to manually search, latest video adds ends of the list. 
-
-
-<br><hr><br>
-
 ## INDEX
 
-| THUMBNAIL | TITLE (_yt url_) | CODE (_repo url_) |
-|---|---|---|
-|||
+| THUMBNAIL | TITLE | YouTube | Github |
+|---|---|---|---|
+| ![learn_github](https://github.com/s41r4j/youtube/assets/65067289/4b636957-e179-44c4-8727-208ed165cf38) | Mastering Git & GitHub: From Creating Repositories to Essential Commands | https://www.youtube.com/watch?v=yJHk8qiBkjY | https://github.com/s41r4j/youtube/learn_github |
+
