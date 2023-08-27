@@ -3,14 +3,14 @@
 
 Welcome to the Testing Tools Series, your ultimate resource for mastering a wide array of testing tools with a focus on open-source hacking, OSINT (Open Source Intelligence), and related domains. Whether you're a cybersecurity enthusiast, a penetration tester, or simply someone intrigued by the world of digital investigations, this series is tailor-made for you.
 
-<br><br>
+<br><br><hr><br>
 
-🔹 Episode 1: octosuite
+🔹 __Episode 1__: `octosuite`  
+- YouTube:
+- GitHub: https://github.com/bellingcat/octosuite
 
 
-<br><br>
-
-This repository serves as a hub for all resources related to the series, including code snippets, configuration files, and additional references. Our goal is to provide a comprehensive learning experience that equips you with practical skills and a deep understanding of the tools and techniques involved.
+<br><hr><br><br>
 
 🔗 Explore the series playlist on youtube: 
 
