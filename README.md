@@ -6,5 +6,5 @@ Welcome to the companion repository for our YouTube videos! Here you'll find add
 
 | THUMBNAIL | TITLE | YouTube | Github |
 |---|---|---|---|
-| ![learn_github](https://github.com/s41r4j/youtube/assets/65067289/4b636957-e179-44c4-8727-208ed165cf38) | Mastering Git & GitHub: From Creating Repositories to Essential Commands | https://www.youtube.com/watch?v=yJHk8qiBkjY | https://github.com/s41r4j/youtube/learn_github |
+| ![learn_github](https://github.com/s41r4j/youtube/assets/65067289/4b636957-e179-44c4-8727-208ed165cf38) | Mastering Git & GitHub: From Creating Repositories to Essential Commands | https://www.youtube.com/watch?v=yJHk8qiBkjY | https://github.com/s41r4j/youtube/tree/main/learn_github |
 
