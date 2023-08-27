@@ -6,7 +6,7 @@ Welcome to the Testing Tools Series, your ultimate resource for mastering a wide
 <br><br><hr><br>
 
 🔹 __Episode 1__: `octosuite`  
-- YouTube:
+- YouTube: https://youtu.be/bX3L6Db1H5g?si=yixhmXyTOxS0aNd5
 - GitHub: https://github.com/bellingcat/octosuite
 
 
