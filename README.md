@@ -9,7 +9,7 @@ Welcome to the companion repository for our YouTube videos! Here you'll find add
 SERIES 
 ```
 
-| NAME | EPs PUBLISHED | YOUTUBE PLAYLIST | GITHUB REPO |
+| TITLE | EPs PUBLISHED | YOUTUBE PLAYLIST | GITHUB REPO |
 |---|---|---|---|
 | Testing Tools | 0 | - | https://github.com/s41r4j/youtube/tree/main/testing_tools |
 
