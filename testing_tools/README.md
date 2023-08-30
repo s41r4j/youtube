@@ -9,13 +9,13 @@ Welcome to the Testing Tools Series, your ultimate resource for mastering a wide
 - YouTube: https://youtu.be/bX3L6Db1H5g?si=yixhmXyTOxS0aNd5
 - GitHub: https://github.com/bellingcat/octosuite
 
-<br><hr><br><br>
+<br>
 
 🔹 __Episode 2__: `sherlock`  
 - YouTube: https://youtu.be/bX3L6Db1H5g?si=yixhmXyTOxS0aNd5
 - GitHub: https://github.com/sherlock-project/sherlock
 
-<br><hr><br><br>
+<br>
 
 🔹 __Episode 3__: `maigret`  
 - YouTube: https://youtu.be/bX3L6Db1H5g?si=yixhmXyTOxS0aNd5
@@ -23,6 +23,6 @@ Welcome to the Testing Tools Series, your ultimate resource for mastering a wide
 
 <br><hr><br><br>
 
-🔗 Explore the series playlist on youtube: 
+🔗 Explore the series playlist on youtube: https://www.youtube.com/playlist?list=PLK3-ozU-pcHwSfd37vxSJJdla_TjCYTKq
 
 Join us on this exciting journey of discovery and skill-building. Whether you're an aspiring cybersecurity professional or a curious learner, the Testing Tools Series will empower you to navigate the dynamic landscape of digital security with confidence. Stay tuned for updates, and let's elevate our cybersecurity game together! 🛡️🔍
