@@ -9,6 +9,17 @@ Welcome to the Testing Tools Series, your ultimate resource for mastering a wide
 - YouTube: https://youtu.be/bX3L6Db1H5g?si=yixhmXyTOxS0aNd5
 - GitHub: https://github.com/bellingcat/octosuite
 
+<br><hr><br><br>
+
+🔹 __Episode 2__: `sherlock`  
+- YouTube: https://youtu.be/bX3L6Db1H5g?si=yixhmXyTOxS0aNd5
+- GitHub: https://github.com/sherlock-project/sherlock
+
+<br><hr><br><br>
+
+🔹 __Episode 3__: `maigret`  
+- YouTube: https://youtu.be/bX3L6Db1H5g?si=yixhmXyTOxS0aNd5
+- GitHub: https://github.com/soxoj/maigret
 
 <br><hr><br><br>
 
