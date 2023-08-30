@@ -6,21 +6,21 @@ Welcome to the Testing Tools Series, your ultimate resource for mastering a wide
 <br><br><hr><br>
 
 🔹 __Episode 1__: `octosuite` 
-- Description: Github OSINT Framework
+- Description: _Github OSINT Framework_
 - YouTube: https://youtu.be/bX3L6Db1H5g
 - GitHub: https://github.com/bellingcat/octosuite
 
 <br>
 
 🔹 __Episode 2__: `sherlock`
-- Description: Username Reconnaissance Tool
+- Description: _Username Reconnaissance Tool_
 - YouTube: https://youtu.be/-8rEEAlMgqI
 - GitHub: https://github.com/sherlock-project/sherlock
 
 <br>
 
 🔹 __Episode 3__: `maigret`
-- Description: Username Reconnaissance Tool
+- Description: _Username Reconnaissance Tool_
 - YouTube: _Comming Soon.._
 - GitHub: https://github.com/soxoj/maigret
 
