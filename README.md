@@ -9,7 +9,7 @@ Welcome to the companion repository for our YouTube videos! Here you'll find add
 SERIES 
 ```
 
-| TITLE | EPs | PLAYLIST | GITHUB |
+| NAME | EPs | PLAYLIST | GITHUB |
 |---|---|---|---|
 | Testing Tools Series | 3 | https://www.youtube.com/playlist?list=PLK3-ozU-pcHwSfd37vxSJJdla_TjCYTKq | https://github.com/s41r4j/youtube/tree/main/testing_tools |
 
