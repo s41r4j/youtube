@@ -21,7 +21,7 @@ Welcome to the Testing Tools Series, your ultimate resource for mastering a wide
 
 🔹 __Episode 3__: `maigret`
 - Description: _Username Reconnaissance Tool_
-- YouTube: _Comming Soon.._
+- YouTube:https://youtu.be/5o-iLoU7YVw
 - GitHub: https://github.com/soxoj/maigret
 
 <br><hr><br><br>
